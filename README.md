@@ -1,21 +1,8 @@
-# {{ cookiecutter.project_name }}
+# Year-in-review CIF
+This repository generates a datavisualization of the work completed by the 2026 Summer Cohort of the CodingItFoward Fellows at the CMS Open Source Program Office (OSPO).
 
-{{ cookiecutter.project_description }}
-
-## About the Project
-<!-- TODO: Write an about statement for this project. -->
-
-### Project Vision
-<!-- TODO: What is the vision for this project? -->
-
-### Project Mission
-<!-- TODO: Write a mission statement for this project. -->
-
-### Agency Mission
-<!-- TODO: Must include since this is an agency-led project -->
-
-### Team Mission
-<!-- TODO: Must include since this is an agency-led project -->
+## Team Mission
+The CMS OSPO is committed to advancing open source practices across the agency by building and maintaining shared programs, policies, and projects that make it easier for CMS teams to develop, deploy, and sustain open, transparent, and accessible software.
 
 ## Core Team
 
@@ -99,14 +86,6 @@ Pull-requests are merged to `main` and the changes are immediately deployed to t
 
 Thank you for considering contributing to an Open Source project of the US Government! For more information about our contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Community
-
-The {{ cookiecutter.project_name }} team is taking a community-first and open source approach to the product development of this tool. We believe government software should be made in the open and be built and licensed such that anyone can download the code, run it themselves without paying money to third parties or using proprietary software, and use it as they will.
-
-We know that we can learn from a wide variety of communities, including those who will use or will be impacted by the tool, who are experts in technology, or who have experience with similar technologies deployed in other spaces. We are dedicated to creating forums for continuous conversation and feedback to help shape the design and development of the tool.
-
-We also recognize capacity building as a key part of involving a diverse open source community. We are doing our best to use accessible language, provide technical and process documents, and offer support to community members with a wide variety of backgrounds and skillsets.
-
 ### Community Guidelines
 
 Principles and guidelines for participating in our open source community are can be found in [COMMUNITY.md](COMMUNITY.md). Please read them before joining or starting a conversation in this repo or one of the channels listed below. All community members and participants are expected to adhere to the community guidelines and code of conduct when participating in community spaces including: code repositories, communication channels and venues, and events.
@@ -117,7 +96,7 @@ Information about how the **{project_name}** community is governed may be found 
 
 <!--
 ## Feedback
-If you have ideas for how we can improve or add to our capacity building efforts and methods for welcoming people into our community, please let us know at **{contact email}**. If you would like to comment on the tool itself, please let us know by filing an **issue on our GitHub repository.**
+If you have ideas for how we can improve or add to our capacity building efforts and methods for welcoming people into our community, please let us know at **opensource@cms.hhs.gov**. If you would like to comment on the tool itself, please let us know by filing an **issue on our GitHub repository.**
 
 ## Glossary
 Information about terminology and acronyms used in this documentation may be found in [GLOSSARY.md](GLOSSARY.md).
@@ -141,7 +120,7 @@ For more information about our Security, Vulnerability, and Responsible Disclosu
 
 A Software Bill of Materials (SBOM) is a formal record containing the details and supply chain relationships of various components used in building software.
 
-In the spirit of [Executive Order 14028 - Improving the Nation’s Cyber Security](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-security/executive-order-14028), a SBOM for this repository is provided here: https://github.com/{{ cookiecutter.project_org }}/{{ cookiecutter.project_repo_name }}/network/dependencies.
+In the spirit of [Executive Order 14028 - Improving the Nation’s Cyber Security](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-security/executive-order-14028), a SBOM for this repository is provided here: https://github.com/DSACMS/year-in-review-cif/network/dependencies.
 
 For more information and resources about SBOMs, visit: https://www.cisa.gov/sbom.
 
