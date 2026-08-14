@@ -37,7 +37,7 @@ jobs:
       - name: Build project
         run: npm run build
         env:
-          BASEURL: /year-in-review
+          BASEURL: /year-in-review-cif
           NODE_ENV: production
 
       - name: Setup GitHub pages
